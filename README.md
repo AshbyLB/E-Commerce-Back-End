@@ -12,6 +12,7 @@
   - [Contributing](#Contributing)
   - [Commands](#Commands)
   - [Tutorials](#Tutorials)
+  - [Screenshots](#Screenshots)
   - [Credits](#Credits)
   - [License](#License)
   - [Questions](#Questions)
@@ -29,6 +30,11 @@
   Mysql, source schema.qgl, nmp run seed, npm start.
 
 ## Tutorials
+[Video Walkthrough](https://drive.google.com/file/d/18d4KnpNmZfb2TBsv2Nzsz4gjXNL7kePT/view?usp=sharing)
+
+## Screenshots
+
+![screenshot](./img/ezgif.com-gif-maker.gif)
 
 ## Credits
   Ashby Blakely 
